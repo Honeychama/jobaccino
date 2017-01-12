@@ -1,0 +1,25 @@
+# Exclude these files from the git repo
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-config.php
+advanced-cache.php
+backup-db/
+backups/
+blogs.dir/
+cache/
+upgrade/
+uploads/
+plugins/wp-super-cache
+wp-cache-config.php
+advanced-cache.php
+uploads/ss-style.css
+sitemap.*
+wp-config.php
+themes/shoestrap-3-woocommerce-child/assets/less/last_rendered
+
+# Hidden system files
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
